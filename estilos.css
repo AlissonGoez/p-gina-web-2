@@ -19,23 +19,121 @@ body{
 }
 .titulo{
 font-size: 60px;
-color: rgb(65, 65, 65);
+color: rgb(143, 6, 6);
 text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
 .img1{
-    height: 193px;
-    width: 300px;
-    background-image: url("piedra.jpeg");
+    height: 555px;
+    width: 1050px;
+    background-image: url("ciclo\ menstrual.jpg");
     background-repeat: no-repeat;
     float: right;
 }
 .img2{
-    height: 500px;
-    width: 500px;
-    background-image: url("medellin.jpeg");
+    height: 650px;
+    width: 1500px;
+    background-image: url("fase\ menstrual.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img3{
+    height: 300px;
+    width: 700px;
+    background-image: url("fase\ folicular.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img4{
+    height: 400px;
+    width:  800px;
+    background-image: url("ovulación.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img5{
+    height: 850px;
+    width:  1000px;
+    background-image: url("fase\ lútea.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img6{
+    height: 300px;
+    width:  250px;
+    background-image: url("configuración\ electrónica.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img7{
+    height: 250px;
+    width:  250px;
+    background-image: url("ley\ de\ ohm.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img8{
+    height: 200px;
+    width:  800px;
+    background-image: url("ley\ de\ KCL.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img9{
+    height: 200px;
+    width:  400px;
+    background-image: url("Ley\ de\ KVL.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img10{
+    height: 250px;
+    width:  1000px;
+    background-image: url("función\ de\ transferencia.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img11{
+    height: 250px;
+    width:  1000px;
+    background-image: url("Respuesta\ en\ frecuencia\ de\ filtros.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img12{
+    height: 90px;
+    width:  250px;
+    background-image: url("matematicamente\ se\ expresa\ como\(1\).jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img13{
+    height: 90px;
+    width:  250px;
+    background-image: url("img\ 13.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img14{
+    height: 90px;
+    width:  250px;
+    background-image: url("img14.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img15{
+    height: 90px;
+    width:  250px;
+    background-image: url("img15.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img16{
+    height: 90px;
+    width:  250px;
+    background-image: url("img16.jpg");
     background-repeat: no-repeat;
     float: left;
 }
