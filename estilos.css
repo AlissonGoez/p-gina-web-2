@@ -333,4 +333,31 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     float: left;
 }
-
+.img45{
+    height: 700px;
+    width:  1500px;
+    background-image: url("img45.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img46{
+    height: 700px;
+    width:  1500px;
+    background-image: url("img46.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img47{
+    height: 700px;
+    width:  1500px;
+    background-image: url("img47.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img48{
+    height: 700px;
+    width:  1500px;
+    background-image: url("img48.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
