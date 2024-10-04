@@ -361,3 +361,49 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     float: left;
 }
+.img49{
+    height: 700px;
+    width:  1500px;
+    background-image: url("img49.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img50{
+    height: 700px;
+    width:  1500px;
+    background-image: url("img50.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img51{
+    height: 700px;
+    width:  1500px;
+    background-image: url("img51.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.img52{
+    height: 180px;
+    width:  1500px;
+    background-image: url("img52.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.img53{
+    height: 180px;
+    width:  1500px;
+    background-image: url("img53.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.img54{
+    height: 180px;
+    width:  1500px;
+    background-image: url("img54.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
