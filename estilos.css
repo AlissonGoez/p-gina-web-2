@@ -447,3 +447,11 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 
 }
+.img60{
+    height: 2000px;
+    width:  20000px;
+    background-image: url("img60.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
